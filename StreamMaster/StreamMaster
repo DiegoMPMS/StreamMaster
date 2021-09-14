@@ -1,0 +1,285 @@
+!PADS-POWERPCB-V2.0-MILS!
+*PART*
+ S1 Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB
+ S2 Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB
+ S3 Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB
+ S4 Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB
+ S5 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S6 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S7 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S8 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S9 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S10 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S11 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S12 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S13 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S14 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S15 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ S16 Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB
+ S17 Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB
+ S18 Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB
+ S19 Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB
+ S20 Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+ D2 Diode_SMD:D_SOD-323
+ D3 Diode_SMD:D_SOD-323
+ D4 Diode_SMD:D_SOD-323
+ D5 Diode_SMD:D_SOD-323
+ D10 Diode_SMD:D_SOD-323
+ D9 Diode_SMD:D_SOD-323
+ D8 Diode_SMD:D_SOD-323
+ D7 Diode_SMD:D_SOD-323
+ D6 Diode_SMD:D_SOD-323
+ D11 Diode_SMD:D_SOD-323
+ D12 Diode_SMD:D_SOD-323
+ D13 Diode_SMD:D_SOD-323
+ D14 Diode_SMD:D_SOD-323
+ D15 Diode_SMD:D_SOD-323
+ D20 Diode_SMD:D_SOD-323
+ D19 Diode_SMD:D_SOD-323
+ D18 Diode_SMD:D_SOD-323
+ D17 Diode_SMD:D_SOD-323
+ D16 Diode_SMD:D_SOD-323
+ D1 Diode_SMD:D_SOD-323
+ SW1 Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+ SW2 Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+ SW3 Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+ SW4 Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+ SW5 Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+ D21 Diode_SMD:D_SOD-323
+ D22 Diode_SMD:D_SOD-323
+ D23 Diode_SMD:D_SOD-323
+ D24 Diode_SMD:D_SOD-323
+ D25 Diode_SMD:D_SOD-323
+ U1 StreamMaster:ESP32-Wroom-32-38pin
+ R6 Resistor_SMD:R_1206_3216Metric
+ R7 Resistor_SMD:R_1206_3216Metric
+ R8 Resistor_SMD:R_1206_3216Metric
+ R9 Resistor_SMD:R_1206_3216Metric
+ R11 Resistor_SMD:R_1206_3216Metric
+ R10 Resistor_SMD:R_1206_3216Metric
+ R12 Resistor_SMD:R_1206_3216Metric
+ R13 Resistor_SMD:R_1206_3216Metric
+ R15 Resistor_SMD:R_1206_3216Metric
+ R14 Resistor_SMD:R_1206_3216Metric
+ R1 Resistor_SMD:R_1206_3216Metric
+ R2 Resistor_SMD:R_1206_3216Metric
+ R3 Resistor_SMD:R_1206_3216Metric
+ R4 Resistor_SMD:R_1206_3216Metric
+ R5 Resistor_SMD:R_1206_3216Metric
+
+*NET*
+*SIGNAL* ROW3
+ U1.28
+ S12.~
+ S13.~
+ S14.~
+ S15.~
+ S11.~
+*SIGNAL* ROW1
+ S4.~
+ S3.~
+ S2.~
+ S5.~
+ U1.23
+ S1.~
+*SIGNAL* IO04
+ R6.1
+ U1.26
+ SW1.A
+*SIGNAL* ROW2
+ S9.~
+ S7.~
+ S6.~
+ S10.~
+ S8.~
+ U1.27
+*SIGNAL* ROW4
+ S16.~
+ S19.~
+ S18.~
+ S17.~
+ U1.30
+ S20.~
+*SIGNAL* IO14
+ SW2.A
+ R8.1
+ U1.13
+*SIGNAL* IO13
+ SW1.B
+ U1.16
+ R7.1
+*SIGNAL* Net-(D21-Pad2)
+ SW1.S1
+ D21.2
+*SIGNAL* Net-(D22-Pad2)
+ SW2.S1
+ D22.2
+*SIGNAL* Net-(D24-Pad2)
+ SW4.S1
+ D24.2
+*SIGNAL* Net-(D23-Pad2)
+ SW3.S1
+ D23.2
+*SIGNAL* Net-(D25-Pad2)
+ D25.2
+ SW5.S1
+*SIGNAL* IO27
+ R9.1
+ U1.12
+ SW2.B
+*SIGNAL* IO34
+ U1.6
+ SW4.A
+ R12.1
+*SIGNAL* IO33
+ R11.1
+ SW3.B
+ U1.9
+*SIGNAL* IO32
+ U1.8
+ SW3.A
+ R10.1
+*SIGNAL* IO36
+ U1.4
+ R14.1
+ SW5.A
+*SIGNAL* IO35
+ SW4.B
+ R13.1
+ U1.7
+*SIGNAL* IO39
+ U1.5
+ R15.1
+ SW5.B
+*SIGNAL* VCC
+ R9.2
+ R11.2
+ R8.2
+ R2.1
+ R7.2
+ R6.2
+ R1.1
+ R5.1
+ R4.1
+ R3.1
+ R10.2
+ R12.2
+ R13.2
+ U1.2
+ R15.2
+ R14.2
+*SIGNAL* COL1
+ U1.33
+ D16.1
+ D1.1
+ R1.2
+ D11.1
+ D6.1
+ D21.1
+*SIGNAL* ROW5
+ SW3.S2
+ SW4.S2
+ SW2.S2
+ SW1.S2
+ SW5.S2
+ U1.31
+*SIGNAL* GND
+ SW1.C
+ SW2.C
+ SW5.C
+ SW4.C
+ U1.1
+ SW3.C
+*SIGNAL* Net-(D17-Pad2)
+ S17.~
+ D17.2
+*SIGNAL* Net-(D2-Pad2)
+ D2.2
+ S2.~
+*SIGNAL* Net-(D12-Pad2)
+ S12.~
+ D12.2
+*SIGNAL* Net-(D14-Pad2)
+ D14.2
+ S14.~
+*SIGNAL* COL5
+ D15.1
+ U1.11
+ D20.1
+ D25.1
+ D10.1
+ D5.1
+ R5.2
+*SIGNAL* Net-(D19-Pad2)
+ S19.~
+ D19.2
+*SIGNAL* Net-(D5-Pad2)
+ S5.~
+ D5.2
+*SIGNAL* Net-(D3-Pad2)
+ D3.2
+ S3.~
+*SIGNAL* Net-(D7-Pad2)
+ D7.2
+ S7.~
+*SIGNAL* Net-(D4-Pad2)
+ S4.~
+ D4.2
+*SIGNAL* Net-(D6-Pad2)
+ D6.2
+ S6.~
+*SIGNAL* Net-(D9-Pad2)
+ S9.~
+ D9.2
+*SIGNAL* Net-(D10-Pad2)
+ D10.2
+ S10.~
+*SIGNAL* Net-(D1-Pad2)
+ D1.2
+ S1.~
+*SIGNAL* Net-(D11-Pad2)
+ D11.2
+ S11.~
+*SIGNAL* Net-(D20-Pad2)
+ S20.~
+ D20.2
+*SIGNAL* COL3
+ R3.2
+ U1.37
+ D18.1
+ D23.1
+ D8.1
+ D13.1
+ D3.1
+*SIGNAL* Net-(D8-Pad2)
+ D8.2
+ S8.~
+*SIGNAL* COL2
+ U1.36
+ D22.1
+ D2.1
+ D7.1
+ D17.1
+ D12.1
+ R2.2
+*SIGNAL* Net-(D13-Pad2)
+ D13.2
+ S13.~
+*SIGNAL* Net-(D15-Pad2)
+ S15.~
+ D15.2
+*SIGNAL* Net-(D16-Pad2)
+ D16.2
+ S16.~
+*SIGNAL* Net-(D18-Pad2)
+ S18.~
+ D18.2
+*SIGNAL* COL4
+ U1.10
+ D14.1
+ R4.2
+ D19.1
+ D24.1
+ D9.1
+ D4.1
+*END*

@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name StreamMaster)(type Legacy)(uri ${KIPRJMOD}/StreamMaster.lib)(options "")(descr ""))
+  (lib (name StreamMaster-rescue)(type Legacy)(uri ${KIPRJMOD}/StreamMaster-rescue.lib)(options "")(descr ""))
 )

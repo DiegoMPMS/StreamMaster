@@ -1,4 +1,4 @@
-update=sex 10 set 2021 22:59:21
+update=sáb 11 set 2021 13:10:01
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=StreamMasterV02.net
+LastNetListRead=StreamMasterV02-pt2.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -34,12 +34,11 @@ RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
 MinTrackWidth=0.2
 MinViaDiameter=0.4
-MinViaDrill=0.2
+MinViaDrill=0.3
 MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
-MinHoleToHole=0.5
+MinHoleToHole=0.25
 TrackWidth1=0.25
-TrackWidth2=0.5
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2

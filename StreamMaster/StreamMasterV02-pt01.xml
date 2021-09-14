@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/diego/Documents/KiCad/StreamMaster/StreamMaster/StreamMasterV02-pt01.sch</source>
+    <date>seg 13 set 2021 16:16:33</date>
+    <tool>Eeschema 5.1.10-88a1d61d58~90~ubuntu21.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>StreamMaster pt2</title>
+        <company/>
+        <rev>v02</rev>
+        <date>2021-09-06</date>
+        <source>StreamMasterV02-pt01.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value="Autor: Diego Matheus Prado Mendonça Santos"/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="S1">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61370415</tstamp>
+    </comp>
+    <comp ref="S2">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613782FE</tstamp>
+    </comp>
+    <comp ref="S3">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137869D</tstamp>
+    </comp>
+    <comp ref="S4">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61378D73</tstamp>
+    </comp>
+    <comp ref="S5">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137B051</tstamp>
+    </comp>
+    <comp ref="S6">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137B4F6</tstamp>
+    </comp>
+    <comp ref="S7">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137BB21</tstamp>
+    </comp>
+    <comp ref="S8">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137BDB2</tstamp>
+    </comp>
+    <comp ref="S9">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137C2F2</tstamp>
+    </comp>
+    <comp ref="S10">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137C614</tstamp>
+    </comp>
+    <comp ref="S11">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137C860</tstamp>
+    </comp>
+    <comp ref="S12">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137CA9F</tstamp>
+    </comp>
+    <comp ref="S13">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137EC6B</tstamp>
+    </comp>
+    <comp ref="S14">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137EF25</tstamp>
+    </comp>
+    <comp ref="S15">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137F169</tstamp>
+    </comp>
+    <comp ref="S16">
+      <value>MX_SWITCH</value>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <libsource lib="StreamMaster" part="MX_SWITCH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6137F3B9</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6138040C</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61380684</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61380948</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61381212</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613814C1</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61381799</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61381A7C</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61381DB0</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61382346</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61382656</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61382976</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6138362E</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613839D2</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61383D59</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613840B9</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613732A1</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613B3083</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613C079C</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613CDD93</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613DBA12</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x11_Female</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x11_P2.54mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x11_Female" description="Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61483AB6</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x11_Female">
+      <description>Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x11_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="StreamMaster" part="MX_SWITCH">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">MX_SWITCH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PIN-1" type="input"/>
+        <pin num="2" name="PIN-2" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="StreamMaster">
+      <uri>/home/diego/Documents/KiCad/StreamMaster/StreamMaster/StreamMaster.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="S11" pin="2"/>
+    </net>
+    <net code="2" name="Net-(D12-Pad2)">
+      <node ref="S12" pin="2"/>
+      <node ref="D12" pin="2"/>
+    </net>
+    <net code="3" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2"/>
+      <node ref="S16" pin="2"/>
+    </net>
+    <net code="4" name="Net-(D15-Pad2)">
+      <node ref="S15" pin="2"/>
+      <node ref="D15" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D14-Pad2)">
+      <node ref="S14" pin="2"/>
+      <node ref="D14" pin="2"/>
+    </net>
+    <net code="6" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="S5" pin="2"/>
+    </net>
+    <net code="7" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2"/>
+      <node ref="S9" pin="2"/>
+    </net>
+    <net code="8" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="S10" pin="2"/>
+    </net>
+    <net code="9" name="COL3">
+      <node ref="D7" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="J1" pin="3"/>
+      <node ref="D15" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="D11" pin="1"/>
+    </net>
+    <net code="10" name="COL4">
+      <node ref="R4" pin="2"/>
+      <node ref="J1" pin="4"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D4" pin="1"/>
+    </net>
+    <net code="11" name="VCC">
+      <node ref="R3" pin="1"/>
+      <node ref="J1" pin="11"/>
+      <node ref="R2" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="12" name="ROW1">
+      <node ref="S2" pin="1"/>
+      <node ref="S1" pin="1"/>
+      <node ref="S3" pin="1"/>
+      <node ref="J1" pin="10"/>
+      <node ref="S4" pin="1"/>
+    </net>
+    <net code="13" name="Net-(J1-Pad5)">
+      <node ref="J1" pin="5"/>
+    </net>
+    <net code="14" name="Net-(J1-Pad6)">
+      <node ref="J1" pin="6"/>
+    </net>
+    <net code="15" name="ROW3">
+      <node ref="S9" pin="1"/>
+      <node ref="S11" pin="1"/>
+      <node ref="S10" pin="1"/>
+      <node ref="S12" pin="1"/>
+      <node ref="J1" pin="8"/>
+    </net>
+    <net code="16" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2"/>
+      <node ref="S13" pin="2"/>
+    </net>
+    <net code="17" name="ROW4">
+      <node ref="S16" pin="1"/>
+      <node ref="S13" pin="1"/>
+      <node ref="S14" pin="1"/>
+      <node ref="J1" pin="7"/>
+      <node ref="S15" pin="1"/>
+    </net>
+    <net code="18" name="COL1">
+      <node ref="D13" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="19" name="Net-(D2-Pad2)">
+      <node ref="S2" pin="2"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="20" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="S4" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="S8" pin="2"/>
+    </net>
+    <net code="22" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="S7" pin="2"/>
+    </net>
+    <net code="23" name="COL2">
+      <node ref="D6" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="J1" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D10" pin="1"/>
+    </net>
+    <net code="24" name="Net-(D6-Pad2)">
+      <node ref="S6" pin="2"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="25" name="Net-(D1-Pad2)">
+      <node ref="S1" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D3-Pad2)">
+      <node ref="S3" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="27" name="ROW2">
+      <node ref="S7" pin="1"/>
+      <node ref="S5" pin="1"/>
+      <node ref="S6" pin="1"/>
+      <node ref="S8" pin="1"/>
+      <node ref="J1" pin="9"/>
+    </net>
+  </nets>
+</export>
